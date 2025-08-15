@@ -1,0 +1,46 @@
+html {
+  font-size: 22px;
+}
+
+/* Element Selectors */
+
+body {
+}
+
+main {
+  font-family: monospace;
+}
+
+h1,
+h2 {
+  color: blue;
+}
+
+p {
+  color: purple;
+}
+
+p {
+  color: red;
+}
+
+.highlight {
+  text-transform: uppercase;
+  background-color: gold;
+}
+
+/* 
+Class Selector. Starts with a period
+ */
+
+.gray {
+  color: gray;
+}
+
+/* 
+Id Selector. 
+ */
+
+#second {
+  font-style: italic;
+}
